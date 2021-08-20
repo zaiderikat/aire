@@ -2609,7 +2609,7 @@
     connect: connect
   });
 
-  validator.setMessages('ar', ar);
+  validator.setMessages('en', ar);
   window.Validator = validator;
   window.Aire = Aire;
 

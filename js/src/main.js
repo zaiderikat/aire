@@ -1,7 +1,7 @@
 'use strict';
 
 import Validator from 'validatorjs';
-import en from 'validatorjs/src/lang/ar';
+let en = require('./ar').default ;
 import * as Aire from './Aire';
 
 Validator.setMessages('en', en);

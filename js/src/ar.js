@@ -1,4 +1,4 @@
-module.exports = {
+export default {
     accepted: "الحقل :attribute يجب أن تكون مقبولة",
     after: "الحقل :attribute يجب أن تكون بعد الحقل :after.",
     after_or_equal: "الحقل :attribute يجب أن تكون مساوية أو بعد الحقل :after_or_equal.",
